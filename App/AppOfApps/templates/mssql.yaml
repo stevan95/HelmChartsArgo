@@ -13,4 +13,4 @@ spec:
   source:
     path: Charts/mssql
     repoURL: https://github.com/stevan95/HelmChartsArgo.git
-    targetRevision: HEAD
+    targetRevision: master

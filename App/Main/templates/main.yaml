@@ -9,7 +9,7 @@ spec:
   source:
     path: App/AppOfApps
     repoURL: 'https://github.com/stevan95/HelmChartsArgo.git'
-    targetRevision: HEAD
+    targetRevision: master
   project: default
   syncPolicy:
     automated:
