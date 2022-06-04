@@ -35,4 +35,4 @@ spec:
           requests:
             cpu: 100m
             memory: 50Mi
-      restartPolicy: Alway
+      restartPolicy: Always
