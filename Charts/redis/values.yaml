@@ -1,0 +1,7 @@
+image:
+  repo: robotshop
+  version: latest
+  pullPolicy: IfNotPresent
+
+redis:
+  storageClassName: standard
